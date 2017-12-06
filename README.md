@@ -7,5 +7,5 @@ This script takes in a US city and state and cross-references it with NPA/NXX in
 
 Now couple it with the power of the Aircrack-ng suite for your next trick! Intercept a handshake from the WiFi hotspot in question and use this wordlist to quickly brute-force the password. How quickly? Aircrack can traverse the entirety of the Joliet, IL phone numberspace (770,000 possibilities) in six minutes!
 
-Say, do you want to watch this bad boy in action? Here's a mediocre, audio-free video that demonstrates a complete attack in Kali -- from airodump-ng to aireplay-ng to aircrack-ng -- using a wordlist assembled by this little python script.
+Say, do you want to watch this bad boy in action? Here's a quick video that demonstrates a complete attack in Kali -- from airodump-ng to aireplay-ng to aircrack-ng -- using a wordlist assembled by this little python script.
 https://www.youtube.com/watch?v=jDW8KYKh1jA
